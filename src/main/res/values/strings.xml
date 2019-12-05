@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Temanggungku</string>
+    <string name="fee">Harga Tiket</string>
+    <string name="time">Jam Buka</string>
+    <string name="address">Alamat Wisata</string>
+    <string name="about">About</string>
+    <string name="daftar_wisata">Daftar Wisata</string>
+    <string name="trisna">Trisna</string>
+    <string name="email">nur.trisna.h@gmail.com</string>
+    <string name="nama">Nur Trisna Hidayat</string>
+    <string name="lokasi_maps">Lihat lokasi di Maps</string>
+    <string name="tujuan">Aplikasi ini dibuat sebagai tugas untuk melengkapi pembelajaran dalam kelas Android Pemula di Dicoding.com</string>
+</resources>
